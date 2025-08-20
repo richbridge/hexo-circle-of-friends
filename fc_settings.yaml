@@ -17,7 +17,7 @@
 LINK: [
     #  { link: "https://fanrich.eu.org/link/", theme: "butterfly" },  # 友链页地址1，修改为你的友链页地址
     #  { link: "https://richfan.eu.org/friends/", theme: "stellar" }, # 友链页地址2
-     {link: "https://xaoxuu.com/friends/", theme: "stellar"}, # 友链页地址3
+     {link: "https://blog.zhheo.com/link/", theme: "common1"}, # 友链页地址3
 #     ...
 ]
 
